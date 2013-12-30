@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="1">
+  <advance width="1010"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="910" y="343" type="line" name="hr00"/>
+      <point x="100" y="343" type="line"/>
+      <point x="100" y="263" type="line"/>
+      <point x="910" y="263" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="263" width="80" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

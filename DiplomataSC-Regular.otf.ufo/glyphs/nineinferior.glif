@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nineinferior" format="1">
+  <advance width="598"/>
+  <unicode hex="2089"/>
+  <outline>
+    <contour>
+      <point x="102" y="13" type="line"/>
+      <point x="102" y="13" smooth="yes"/>
+      <point x="181" y="-12" smooth="yes"/>
+      <point x="284" y="-12" type="curve" smooth="yes"/>
+      <point x="435" y="-12" smooth="yes"/>
+      <point x="566" y="58" smooth="yes"/>
+      <point x="566" y="173" type="curve" smooth="yes"/>
+      <point x="566" y="297" smooth="yes"/>
+      <point x="432" y="367" smooth="yes"/>
+      <point x="298" y="367" type="curve" smooth="yes"/>
+      <point x="166" y="367" smooth="yes"/>
+      <point x="28" y="315" smooth="yes"/>
+      <point x="28" y="231" type="curve" smooth="yes"/>
+      <point x="28" y="146" smooth="yes"/>
+      <point x="131" y="117" smooth="yes"/>
+      <point x="219" y="117" type="curve" smooth="yes"/>
+      <point x="292" y="117"/>
+      <point x="356" y="139"/>
+      <point x="375" y="147" type="curve"/>
+      <point x="373" y="65" smooth="yes"/>
+      <point x="345" y="16" smooth="yes"/>
+      <point x="267" y="16" type="curve" smooth="yes"/>
+      <point x="186" y="16"/>
+      <point x="101" y="92"/>
+      <point x="101" y="92" type="curve"/>
+      <point x="76" y="92" type="line"/>
+      <point x="76" y="-4" type="line" name="hr01"/>
+      <point x="102" y="-4" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="178" type="curve"/>
+      <point x="376" y="178" smooth="yes"/>
+      <point x="321" y="148" smooth="yes"/>
+      <point x="276" y="148" type="curve" smooth="yes" name="hr02"/>
+      <point x="230" y="148" smooth="yes"/>
+      <point x="210" y="191" smooth="yes"/>
+      <point x="210" y="240" type="curve" smooth="yes"/>
+      <point x="210" y="272" smooth="yes"/>
+      <point x="214" y="339" smooth="yes"/>
+      <point x="295" y="339" type="curve" smooth="yes"/>
+      <point x="370" y="339"/>
+      <point x="376" y="273"/>
+    </contour>
+    <contour>
+      <point x="456" y="179" type="curve" smooth="yes" name="hr03"/>
+      <point x="456" y="121"/>
+      <point x="429" y="61"/>
+      <point x="396" y="36" type="curve"/>
+      <point x="393" y="38" type="line"/>
+      <point x="408" y="70" smooth="yes"/>
+      <point x="416" y="133" smooth="yes"/>
+      <point x="416" y="179" type="curve" smooth="yes"/>
+      <point x="416" y="225"/>
+      <point x="408" y="288"/>
+      <point x="393" y="320" type="curve"/>
+      <point x="396" y="322" type="line"/>
+      <point x="429" y="297" smooth="yes"/>
+      <point x="456" y="237" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="108" y="231" type="curve" smooth="yes"/>
+      <point x="108" y="197"/>
+      <point x="120" y="166"/>
+      <point x="139" y="145" type="curve"/>
+      <point x="136" y="143" type="line"/>
+      <point x="96" y="160" smooth="yes"/>
+      <point x="68" y="195" smooth="yes"/>
+      <point x="68" y="231" type="curve" smooth="yes"/>
+      <point x="68" y="267"/>
+      <point x="96" y="302"/>
+      <point x="136" y="319" type="curve"/>
+      <point x="139" y="316" type="line"/>
+      <point x="120" y="296" smooth="yes"/>
+      <point x="108" y="264" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="17" width="-21" />
+      <hstem pos="367" width="-20" />
+      <vstem pos="28" width="182" />
+      <vstem pos="376" width="190" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="-12" width="160" />
+      <hstem pos="367" width="-20" />
+      <vstem pos="28" width="182" />
+      <vstem pos="376" width="190" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="-12" width="160" />
+      <hstem pos="367" width="-20" />
+      <vstem pos="28" width="182" />
+      <vstem pos="456" width="110" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

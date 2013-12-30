@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="505"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="50" y="630" type="line"/>
+      <point x="455" y="630" type="line"/>
+      <point x="455" y="764" type="line"/>
+      <point x="50" y="764" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="650" type="line" name="hr01"/>
+      <point x="111" y="650" type="line"/>
+      <point x="111" y="744" type="line"/>
+      <point x="165" y="744" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="650" width="-20" />
+      <hstem pos="744" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

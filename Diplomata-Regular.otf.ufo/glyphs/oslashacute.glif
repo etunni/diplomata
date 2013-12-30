@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute" format="1">
+  <advance width="1099"/>
+  <unicode hex="01FF"/>
+  <outline>
+    <contour>
+      <point x="428" y="-49" type="line" name="hr00"/>
+      <point x="722" y="608" type="line"/>
+      <point x="670" y="608" type="line"/>
+      <point x="376" y="-49" type="line"/>
+    </contour>
+    <component  base="o"/>
+    <component  base="acute" xOffset="274"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-28" width="-21" />
+      <hstem pos="608" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
