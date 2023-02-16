@@ -11,6 +11,17 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aring
 name = Uppercase;
 }
 );
+customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
 date = "2023-02-15 15:55:11 +0000";
 familyName = Diplomata;
 featurePrefixes = (
